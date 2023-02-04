@@ -1,0 +1,8 @@
+a_tuple = tuple(("a", "b", True, True))
+b_tuple = ("idk",)
+print(a_tuple)
+print(b_tuple)
+print(type(a_tuple))
+print(type(b_tuple))
+print(len(b_tuple))
+print(a_tuple[1])
